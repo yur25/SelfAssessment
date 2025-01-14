@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model h
   - Modeling
   - Subject domain
-  - Algorithm h
+  - Algorithm k
   - Syntax k
-  - Semantics
+  - Semantics h
   - Abstraction
   - Paradigm
-  - Programm h
+  - Programm k
   - Programming paradigm
-  - Programming language h
+  - Programming language k
   - Contract
   - Module
   - Library k
@@ -19,12 +19,12 @@
   - Component
   - Framework
   - Platform h
-  - Source code
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering k
+  - Decomposition k
   - Control flow
   - Data flow
   - Code reuse
@@ -38,15 +38,15 @@
   - Constant k
   - Scalar h
   - Literal
-  - Expression
+  - Expression k
   - Heap
   - Function k
   - Procedure
   - Method
   - Class
   - Prototype
-  - Event
-  - Type
+  - Event h
+  - Type k
   - Flag
   - Lexical scope
   - Code block
@@ -58,10 +58,10 @@
   - Namespaces
   - Call stack
   - Naming conventions h
-  - Coding conventions
+  - Coding conventions k
   - Camel case h
-  - Snake case
-  - Kebab case
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
@@ -85,20 +85,20 @@
   - Argument k
   - Parameter k
   - Pure function
-  - Lambda expression h
+  - Lambda expression k
   - Side effects
-  - Closure
+  - Closure h
   - Partial application
   - Currying
   - Higher order
   - Recursion k
   - Tail call optimisation
-  - Callback
+  - Callback k
   - Listener
-  - Composition
-  - Pipe
+  - Composition h
+  - Pipe h
   - Memoize
-  - Wrapper
+  - Wrapper h
   - Functor
   - Monad
   - Monoid
@@ -122,7 +122,7 @@
   - Stack
   - Deque
   - Tree h
-  - Graph
+  - Graph h
   - Iterator h
   - Mutable state
   - Immutable state
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,26 +152,26 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime 
+  - Runtime h
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger k
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review h
+  - Refactoring k
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github h
+  - git k
+  - Github k
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers k
   - Hard code
   - Soft code
   - Cryptic code
@@ -182,18 +182,18 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
+  - Unreachable code k
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops k
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -222,13 +222,13 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 h
   - ECMA
   - ICANN
   - ISO
