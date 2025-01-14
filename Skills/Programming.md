@@ -4,21 +4,21 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm h
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm h
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
-  - Library
+  - Library k
   - Package
   - Component
   - Framework
-  - Platform
+  - Platform h
   - Source code
   - Object code
   - Machine code
@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value k
+  - Identifier k
+  - Variable k
+  - Constant k
+  - Scalar h
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function k
   - Procedure
   - Method
   - Class
@@ -50,16 +50,16 @@
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions k
+  - Loops k
+  - Assignment k
   - Regular expression
-  - Interface
+  - Interface 
   - Namespaces
   - Call stack
-  - Naming conventions
+  - Naming conventions h
   - Coding conventions
-  - Camel case
+  - Camel case h
   - Snake case
   - Kebab case
   - Trailing commas
@@ -82,16 +82,16 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument k
+  - Parameter k
   - Pure function
-  - Lambda expression
+  - Lambda expression h
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion k
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,25 +105,25 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object h
   - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Set h
+  - Hash table k
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree h
   - Graph
-  - Iterator
+  - Iterator h
   - Mutable state
   - Immutable state
   - Serialization
@@ -152,20 +152,20 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime 
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review h
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux k
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
