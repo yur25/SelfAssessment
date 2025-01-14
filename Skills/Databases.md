@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery: 👂 heard
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store: 👂 heard
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases: 👂 heard
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -86,9 +86,9 @@
   - Firebase
 - Data engineering
   - Data warehousing
-  - Business intelligence
-  - Big data
-  - Data analysis h
-  - AI tools k
-  - Cloud databases h
+  - Business intelligence: 👂 heard
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 🎓 known
+  - Cloud databases: 👂 heard
   - Data Visualization
