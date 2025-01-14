@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -41,7 +41,7 @@
   - Polymorphism
   - Abstract class
   - Interface
-  - Encapsulation
+  - Encapsulation h
   - Hidden class
   - Object form
   - Instance
