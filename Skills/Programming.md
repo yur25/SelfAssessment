@@ -1,30 +1,30 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model h
+  - Model: 👂 heard
   - Modeling
   - Subject domain
-  - Algorithm k
-  - Syntax k
-  - Semantics h
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
   - Abstraction
   - Paradigm
-  - Programm k
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language k
+  - Programming language: 🎓 known
   - Contract
   - Module
-  - Library k
+  - Library: 🎓 known
   - Package
   - Component
   - Framework
-  - Platform h
-  - Source code k
+  - Platform: 👂 heard
+  - Source code: 🎓 known
   - Object code
-  - Machine code h
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering k
-  - Decomposition k
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
   - Control flow
   - Data flow
   - Code reuse
@@ -32,36 +32,36 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value k
-  - Identifier k
-  - Variable k
-  - Constant k
-  - Scalar h
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 👂 heard
   - Literal
-  - Expression k
+  - Expression: 🎓 known
   - Heap
-  - Function k
+  - Function: 🎓 known
   - Procedure
   - Method
   - Class
   - Prototype
-  - Event h
-  - Type k
+  - Event: 👂 heard
+  - Type: 🎓 known
   - Flag
   - Lexical scope
   - Code block
-  - Conditions k
-  - Loops k
-  - Assignment k
+  - Conditions: 🎓 known
+  - Loops: 🎓 known
+  - Assignment: 🎓 known
   - Regular expression
-  - Interface 
+  - Interface
   - Namespaces
   - Call stack
-  - Naming conventions h
-  - Coding conventions k
-  - Camel case h
-  - Snake case k
-  - Kebab case k
+  - Naming conventions: 👂 heard
+  - Coding conventions: 🎓 known
+  - Camel case: 👂 heard
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
@@ -82,48 +82,48 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
-  - Lambda expression k
+  - Lambda expression: 🎓 known
   - Side effects
-  - Closure h
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
-  - Recursion k
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback k
+  - Callback: 🎓 known
   - Listener
-  - Composition h
-  - Pipe h
+  - Composition: 👂 heard
+  - Pipe: 👂 heard
   - Memoize
-  - Wrapper h
+  - Wrapper: 👂 heard
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array k
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
-  - Object h
+  - Object: 👂 heard
   - Collection
-  - Set h
-  - Hash table k
-  - Linked list h
+  - Set: 👂 heard
+  - Hash table: 🎓 known
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree h
-  - Graph h
-  - Iterator h
+  - Tree: 👂 heard
+  - Graph: 👂 heard
+  - Iterator: 👂 heard
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler k
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,26 +152,26 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime h
+  - Runtime: 👂 heard
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger k
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection
-  - Refactoring k
-  - Code review k
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git k
-  - Github k
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers k
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
@@ -182,18 +182,18 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code k
+  - Unreachable code: 🎓 known
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops k
+  - Nested loops: 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case h
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,26 +209,26 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers h
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS k
-  - Windows k
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 h
+  - Base64: 👂 heard
   - ECMA
   - ICANN
   - ISO

@@ -1,28 +1,28 @@
 ## JavaScript
 
 - Language
-  - `Object` k
-  - `Function` k
-  - `Boolean` k
-  - `Number` k
-  - `BigInt` h
-  - `String` k
-  - `Symbol` k
-  - `Infinity` k
-  - `NaN` k
-  - `undefined` k
-  - `null` k
-  - `this` h
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 👂 heard
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 👂 heard
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` k
+  - `typeof`: 🎓 known
   - Destructuring
   - Generators
-  - Iterators k
+  - Iterators: 🎓 known
   - Async generator
   - Async iterator
-  - Chaining h
+  - Chaining: 👂 heard
   - Optional chaining
   - IIFE
   - Async IIFE
@@ -32,23 +32,23 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators k
-  - Logical operators k
+  - Equality operators: 🎓 known
+  - Logical operators: 🎓 known
   - Logical Assignment
-  - Bitwise operators k
-  - Ternary operator k
-  - `void` k
-  - `yield` 
-  - `await` h
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🎓 known
+  - `void`: 🎓 known
+  - `yield`
+  - `await`: 👂 heard
   - Template literal
-  - Strict mode k
+  - Strict mode: 🎓 known
   - Hoisting
-  - `delete` k
-  - `in` k
+  - `delete`: 🎓 known
+  - `in`: 🎓 known
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` k
+  - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -59,42 +59,42 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` k
-  - `while` k
-  - `do..while` k
-  - `for` k
-  - `for..in` k
-  - `for..of` k
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
   - `for await`
-  - `throw` k
-  - `break` k
-  - `continue` k
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
   - `import`
   - `export`
   - `label`
-  - `try..catch` k
-  - `switch` k
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
   - `class`
   - `extends`
   - `with`
-  - `new` k
+  - `new`: 🎓 known
 - Functions
-  - Arrow function k
-  - Async function h
-  - Function declaration h
-  - Function expression k
+  - Arrow function: 🎓 known
+  - Async function: 👂 heard
+  - Function declaration: 👂 heard
+  - Function expression: 🎓 known
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` k
+  - `return`: 🎓 known
 - Data structures
-  - `Array` k
-  - `Map` k
-  - `Set` k
-  - `WeakMap` h 
-  - `WeakSet` h
+  - `Array`: 🎓 known
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
+  - `WeakMap`: 👂 heard
+  - `WeakSet`: 👂 heard
   - Typed arrays
   - Mixins
   - `Object.assign`
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` k
+  - `Math`: 🎓 known
   - `Reflect`
-  - `Error` h
+  - `Error`: 👂 heard
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` h
-  - `console` h
+  - `Promise`: 👂 heard
+  - `console`: 👂 heard
   - Timers
 - Infrastructure
   - V8
-  - Node.js k
+  - Node.js: 🎓 known
   - npm
-  - prettier h
+  - prettier: 👂 heard
   - MDN
   - TC39
