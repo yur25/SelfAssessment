@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
+  - Data analysis h
+  - AI tools k
+  - Cloud databases h
   - Data Visualization
