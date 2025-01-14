@@ -92,14 +92,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing h
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console h
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` h
   - `error.cause`
   - `error.code`
   - `error.message`
