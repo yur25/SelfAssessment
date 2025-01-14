@@ -20,13 +20,13 @@
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
+  - Cohesion h
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability h
+  - Quality h
   - Availability
-  - Flexibility
+  - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -58,9 +58,9 @@
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS h
+  - PaaS h
+  - SaaS h
   - FaaS clouds
   - Serverless
   - Vendor lock-in
